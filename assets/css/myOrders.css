@@ -1,0 +1,44 @@
+
+#headerRows{
+    text-align: center;
+}
+.dataRows{
+    text-align:center;
+    
+}
+.orderCells{
+    width: 8%;
+    text-align:center;
+    vertical-align: top;
+}
+.orderCellTitle{
+    width: 8%;
+    text-align:center;
+    font-weight: bold;
+}
+.productsCells{
+    width: 28%;
+    text-align:center;
+    vertical-align: top;
+    
+}
+.productsCellTitle{
+    width: 28%;
+    text-align:center;
+    font-weight: bold;
+}
+.addressCells{
+    width: 20%;
+    text-align:center;
+    vertical-align: top;
+    
+}
+.addressCellTitle{
+    width: 20%;
+    text-align:center;
+    font-weight: bold;
+}
+#ordersTable {
+    border-collapse:separate; 
+    border-spacing: 0 1em;
+  }

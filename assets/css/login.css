@@ -1,0 +1,47 @@
+.mainHeadingDiv{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.mainHeading{
+    font-size: 40px;
+}
+
+.inputTitle{
+    font-size: 25px;
+}
+
+.inputDiv{
+    margin-top: 1%;
+}
+input{
+    width: 15%;
+    font-size: 18px;
+}
+
+.registerLink{
+    color: cornflowerblue;
+    font-size:16px;
+}
+.registerLink:hover{
+    
+    text-decoration: underline;
+    text-decoration-color: cornflowerblue;
+}
+
+.btn{
+    font-size: 1.2vw;
+    background-color: #383434;
+    border: 2px solid #383434;
+    color: white;
+    width: 6vw;
+}
+
+.addToCartBtn{
+    margin-top:2%;
+    font-size: 1vw;
+    background-color: #383434;
+    border: 2px solid #383434;
+    color: white;
+    width: 6vw;
+}
